@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.naslovsize {
+    font-size: 12px;
+}
+.naslov1 {
+    color:blue;
+}
+.naslov2 {
+    color: yellow;
+}
